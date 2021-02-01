@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Commons (1.0.0):
+    - Alamofire
+
+DEPENDENCIES:
+  - Commons (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+
+EXTERNAL SOURCES:
+  Commons:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Commons: fe274dd4143669f66263e82a05ce92c2d9226e5e
+
+PODFILE CHECKSUM: 1754379e155109e77ea1bebc788b2eb02dfb7db8
+
+COCOAPODS: 1.10.0
